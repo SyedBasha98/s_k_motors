@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/S.k.-Motors/npm%20install%20--save%20gh-pages/static/css/main.9829f45f.css",
+    "main.js": "/S.k.-Motors/npm%20install%20--save%20gh-pages/static/js/main.f7c03725.js",
+    "static/js/453.01b00976.chunk.js": "/S.k.-Motors/npm%20install%20--save%20gh-pages/static/js/453.01b00976.chunk.js",
+    "index.html": "/S.k.-Motors/npm%20install%20--save%20gh-pages/index.html",
+    "main.9829f45f.css.map": "/S.k.-Motors/npm%20install%20--save%20gh-pages/static/css/main.9829f45f.css.map",
+    "main.f7c03725.js.map": "/S.k.-Motors/npm%20install%20--save%20gh-pages/static/js/main.f7c03725.js.map",
+    "453.01b00976.chunk.js.map": "/S.k.-Motors/npm%20install%20--save%20gh-pages/static/js/453.01b00976.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9829f45f.css",
+    "static/js/main.f7c03725.js"
+  ]
+}
